@@ -1,0 +1,13 @@
+langchain 
+langchain-community 
+psycopg2-binary 
+sentence-transformers 
+sqlalchemy
+PyPDF2
+pandas
+fastapi
+python-multipart
+langchain-huggingface
+langchain.text_splitters
+fastapi[standard]
+langchain_ollama

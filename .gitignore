@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+*.env
+*.py[cod]
+*$py.class
+
+# Ignora qualquer pasta chamada 'temp' em qualquer nível do projeto
+**/__pycache__/
+**/temp/
+**/models/
